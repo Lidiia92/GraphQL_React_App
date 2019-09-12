@@ -1,13 +1,27 @@
 {
-    "users": [
-        {"id": "1", "firstName": "Johny", "age": 25, "companyId": "1"},
-        {"id": "2", "firstName": "Bob", "age": 40, "companyId": "1"},
-        {"id": "3", "firstName": "Billy", "age": 38, "companyId": "2"}
-    ],
-
-    "companies": [
-        {"id": "1", "name": "Papa Johns LLC", "description": "Pizza shop"},
-        {"id": "2", "name": "Redners", "description": "Food store"}
-    ]
+  "users": [
+    {
+      "id": "3",
+      "firstName": "Billy",
+      "age": 38,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Bun",
+      "age": 32,
+      "id": "8529un0"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Papa Johns LLC",
+      "description": "Pizza shop"
+    },
+    {
+      "id": "2",
+      "name": "Redners",
+      "description": "Food store"
+    }
+  ]
 }
-
